@@ -1,0 +1,5582 @@
+{
+ "MTK": {
+  "SD": [
+   {
+    "lv": "easy",
+    "q": "Bilangan yang tepat setelah 9 adalah?",
+    "a": "10",
+    "w": [
+     "8",
+     "11",
+     "7"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Jumlah sisi pada persegi adalah?",
+    "a": "4",
+    "w": [
+     "3",
+     "5",
+     "6"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Hari dalam satu minggu ada berapa?",
+    "a": "7",
+    "w": [
+     "5",
+     "6",
+     "8"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Bangun datar yang memiliki 3 sisi adalah?",
+    "a": "Segitiga",
+    "w": [
+     "Persegi",
+     "Lingkaran",
+     "Trapesium"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Bilangan prima terkecil adalah?",
+    "a": "2",
+    "w": [
+     "1",
+     "3",
+     "0"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Nilai tempat ratusan pada bilangan 4.356 adalah?",
+    "a": "3",
+    "w": [
+     "4",
+     "5",
+     "6"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Kebalikan dari pecahan 3/4 adalah?",
+    "a": "4/3",
+    "w": [
+     "3/4",
+     "1/4",
+     "2/3"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Angka Romawi untuk 50 adalah?",
+    "a": "L",
+    "w": [
+     "C",
+     "D",
+     "X"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Bilangan kubik dari 2 adalah?",
+    "a": "8",
+    "w": [
+     "4",
+     "6",
+     "9"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Sudut yang besarnya 90 derajat disebut sudut?",
+    "a": "Siku-siku",
+    "w": [
+     "Lancip",
+     "Tumpul",
+     "Refleks"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Akar kuadrat dari 144 adalah?",
+    "a": "12",
+    "w": [
+     "14",
+     "11",
+     "13"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Satuan panjang dalam SI adalah?",
+    "a": "Meter",
+    "w": [
+     "Gram",
+     "Liter",
+     "Detik"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "26 + 51 = ?",
+    "a": "77",
+    "w": [
+     "87",
+     "67",
+     "78"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "75 + 76 = ?",
+    "a": "151",
+    "w": [
+     "161",
+     "141",
+     "152"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "24 + 39 = ?",
+    "a": "63",
+    "w": [
+     "73",
+     "53",
+     "64"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "87 + 82 = ?",
+    "a": "169",
+    "w": [
+     "179",
+     "159",
+     "170"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "64 + 84 = ?",
+    "a": "148",
+    "w": [
+     "158",
+     "138",
+     "149"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "82 × 9 = ?",
+    "a": "738",
+    "w": [
+     "748",
+     "728",
+     "747"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "74 × 9 = ?",
+    "a": "666",
+    "w": [
+     "676",
+     "656",
+     "675"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "87 × 6 = ?",
+    "a": "522",
+    "w": [
+     "532",
+     "512",
+     "528"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "24 ÷ 4 = ?",
+    "a": "6",
+    "w": [
+     "7",
+     "5",
+     "8"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "49 ÷ 7 = ?",
+    "a": "7",
+    "w": [
+     "8",
+     "6",
+     "9"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "(8 + 14) × 2 − 10 = ?",
+    "a": "34",
+    "w": [
+     "36",
+     "32",
+     "44"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "(5 + 20) × 4 − 6 = ?",
+    "a": "94",
+    "w": [
+     "98",
+     "90",
+     "100"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "(17 + 13) × 4 − 8 = ?",
+    "a": "112",
+    "w": [
+     "116",
+     "108",
+     "120"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Keliling persegi dengan sisi 12 cm adalah ... cm",
+    "a": "48",
+    "w": [
+     "60",
+     "72",
+     "44"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Luas persegi panjang 14 cm × 5 cm adalah ... cm²",
+    "a": "70",
+    "w": [
+     "89",
+     "108",
+     "84"
+    ]
+   }
+  ],
+  "SMP": [
+   {
+    "lv": "easy",
+    "q": "Bilangan yang habis dibagi 2 disebut bilangan?",
+    "a": "Genap",
+    "w": [
+     "Ganjil",
+     "Prima",
+     "Pangkat"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Persen artinya per berapa?",
+    "a": "100",
+    "w": [
+     "10",
+     "1000",
+     "50"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Jumlah sudut dalam segitiga adalah?",
+    "a": "180 derajat",
+    "w": [
+     "90 derajat",
+     "360 derajat",
+     "270 derajat"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Titik tempat dua garis berpotongan disebut?",
+    "a": "Titik potong",
+    "w": [
+     "Titik pusat",
+     "Titik sudut",
+     "Titik berat"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Grafik fungsi linear berbentuk?",
+    "a": "Garis lurus",
+    "w": [
+     "Parabola",
+     "Lingkaran",
+     "Hiperbola"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Sisi miring pada segitiga siku-siku disebut?",
+    "a": "Hipotenusa",
+    "w": [
+     "Katetus",
+     "Diagonal",
+     "Jari-jari"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Bangun ruang yang alasnya lingkaran dan berbentuk silinder disebut?",
+    "a": "Tabung",
+    "w": [
+     "Kubus",
+     "Limas",
+     "Balok"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Pangkat dua dari 3 adalah?",
+    "a": "9",
+    "w": [
+     "6",
+     "8",
+     "12"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Rumus luas lingkaran adalah?",
+    "a": "πr²",
+    "w": [
+     "2πr",
+     "πd",
+     "r²"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Gradien garis mendatar adalah?",
+    "a": "0",
+    "w": [
+     "1",
+     "Tak terhingga",
+     "-1"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Himpunan yang tidak memiliki anggota disebut?",
+    "a": "Himpunan kosong",
+    "w": [
+     "Himpunan semesta",
+     "Himpunan bagian",
+     "Himpunan lepas"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Bilangan bulat yang terletak di antara -2 dan 2 ada berapa?",
+    "a": "3",
+    "w": [
+     "2",
+     "4",
+     "5"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "10% dari 400 = ?",
+    "a": "40",
+    "w": [
+     "45",
+     "35",
+     "50"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "25% dari 40 = ?",
+    "a": "10",
+    "w": [
+     "15",
+     "5",
+     "20"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "75% dari 360 = ?",
+    "a": "270",
+    "w": [
+     "275",
+     "265",
+     "280"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "25% dari 120 = ?",
+    "a": "30",
+    "w": [
+     "35",
+     "25",
+     "40"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "50% dari 80 = ?",
+    "a": "40",
+    "w": [
+     "45",
+     "35",
+     "50"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Nilai x dari 7x + 12 = 96 adalah?",
+    "a": "12",
+    "w": [
+     "13",
+     "11",
+     "14"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Nilai x dari 4x + 1 = 45 adalah?",
+    "a": "11",
+    "w": [
+     "12",
+     "10",
+     "13"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Nilai x dari 4x + 8 = 36 adalah?",
+    "a": "7",
+    "w": [
+     "8",
+     "6",
+     "9"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Nilai x dari 2x + 7 = 23 adalah?",
+    "a": "8",
+    "w": [
+     "9",
+     "7",
+     "10"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Nilai x dari 6x + 8 = 74 adalah?",
+    "a": "11",
+    "w": [
+     "12",
+     "10",
+     "13"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Segitiga siku-siku bersisi 3 cm dan 4 cm. Panjang sisi miringnya ... cm",
+    "a": "5",
+    "w": [
+     "6",
+     "4",
+     "7"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Segitiga siku-siku bersisi 5 cm dan 12 cm. Panjang sisi miringnya ... cm",
+    "a": "13",
+    "w": [
+     "14",
+     "12",
+     "15"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Segitiga siku-siku bersisi 8 cm dan 15 cm. Panjang sisi miringnya ... cm",
+    "a": "17",
+    "w": [
+     "18",
+     "16",
+     "19"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Segitiga siku-siku bersisi 7 cm dan 24 cm. Panjang sisi miringnya ... cm",
+    "a": "25",
+    "w": [
+     "26",
+     "24",
+     "27"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Luas lingkaran berjari-jari 7 cm (π = 22/7) adalah ... cm²",
+    "a": "154",
+    "w": [
+     "161",
+     "105",
+     "198"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Luas lingkaran berjari-jari 14 cm (π = 22/7) adalah ... cm²",
+    "a": "616",
+    "w": [
+     "630",
+     "420",
+     "704"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Luas lingkaran berjari-jari 21 cm (π = 22/7) adalah ... cm²",
+    "a": "1386",
+    "w": [
+     "1407",
+     "945",
+     "1518"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "KPK dari 12 dan 18 adalah?",
+    "a": "36",
+    "w": [
+     "6",
+     "72",
+     "24"
+    ]
+   }
+  ],
+  "SMA": [
+   {
+    "lv": "easy",
+    "q": "Turunan dari f(x) = x kuadrat adalah?",
+    "a": "2x",
+    "w": [
+     "x",
+     "x kuadrat",
+     "2x kuadrat"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Nilai sin 90 derajat adalah?",
+    "a": "1",
+    "w": [
+     "0",
+     "-1",
+     "1/2"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Grafik fungsi kuadrat berbentuk?",
+    "a": "Parabola",
+    "w": [
+     "Garis lurus",
+     "Lingkaran",
+     "Hiperbola"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Nilai dari log 1 (basis 10) adalah?",
+    "a": "0",
+    "w": [
+     "1",
+     "10",
+     "-1"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Besaran yang memiliki besar dan arah disebut?",
+    "a": "Vektor",
+    "w": [
+     "Skalar",
+     "Tensor",
+     "Matriks"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Notasi untuk kombinasi dari n unsur diambil r adalah?",
+    "a": "nCr",
+    "w": [
+     "nPr",
+     "n!",
+     "n²"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Peluang suatu kejadian pasti adalah?",
+    "a": "1",
+    "w": [
+     "0",
+     "0,5",
+     "-1"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Rumus suku ke-n barisan aritmetika adalah?",
+    "a": "a + (n−1)b",
+    "w": [
+     "a + nb",
+     "ar^(n−1)",
+     "a·b^n"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Jumlah elemen matriks berordo 2×2 adalah?",
+    "a": "4",
+    "w": [
+     "2",
+     "3",
+     "8"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Integral dari 1 terhadap x adalah?",
+    "a": "x + C",
+    "w": [
+     "x",
+     "1 + C",
+     "x² + C"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Nilai limit dari x mendekati 0 untuk fungsi x kuadrat adalah?",
+    "a": "0",
+    "w": [
+     "1",
+     "tak terhingga",
+     "-1"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Himpunan semua kemungkinan hasil percobaan disebut?",
+    "a": "Ruang sampel",
+    "w": [
+     "Kejadian",
+     "Peluang",
+     "Populasi"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Nilai dari log basis 2 dari 8 adalah?",
+    "a": "3",
+    "w": [
+     "4",
+     "2",
+     "5"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Nilai dari log basis 3 dari 81 adalah?",
+    "a": "4",
+    "w": [
+     "5",
+     "3",
+     "6"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Nilai dari log basis 5 dari 125 adalah?",
+    "a": "3",
+    "w": [
+     "4",
+     "2",
+     "5"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Nilai dari log basis 10 dari 1000 adalah?",
+    "a": "3",
+    "w": [
+     "4",
+     "2",
+     "5"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Nilai dari log basis 2 dari 32 adalah?",
+    "a": "5",
+    "w": [
+     "6",
+     "4",
+     "7"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Jika f(x) = 2x² + 8x, maka f'(4) = ?",
+    "a": "24",
+    "w": [
+     "26",
+     "22",
+     "32"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Jika f(x) = 5x² + 6x, maka f'(4) = ?",
+    "a": "46",
+    "w": [
+     "51",
+     "41",
+     "52"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Jika f(x) = 6x² + 9x, maka f'(1) = ?",
+    "a": "21",
+    "w": [
+     "27",
+     "15",
+     "30"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Barisan aritmetika dengan suku pertama 5 dan beda 3. Suku ke-10 adalah?",
+    "a": "32",
+    "w": [
+     "35",
+     "29",
+     "38"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Banyaknya cara menyusun 5 buku berbeda dalam satu baris adalah?",
+    "a": "120",
+    "w": [
+     "100",
+     "144",
+     "24"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Nilai dari C(6,2) adalah?",
+    "a": "15",
+    "w": [
+     "20",
+     "12",
+     "30"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Nilai dari C(8,3) adalah?",
+    "a": "56",
+    "w": [
+     "48",
+     "64",
+     "24"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "∫₀² (2x + 3) dx = ?",
+    "a": "10",
+    "w": [
+     "12",
+     "6",
+     "14"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Nilai sin 30° adalah?",
+    "a": "1/2",
+    "w": [
+     "√3/2",
+     "1",
+     "√2/2"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Akar-akar persamaan x² − 5x + 6 = 0 adalah?",
+    "a": "2 dan 3",
+    "w": [
+     "1 dan 6",
+     "−2 dan −3",
+     "−1 dan 6"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Jumlah deret geometri 2 + 4 + 8 + 16 adalah?",
+    "a": "30",
+    "w": [
+     "16",
+     "32",
+     "24"
+    ]
+   }
+  ],
+  "PhD": [
+   {
+    "lv": "easy",
+    "q": "Determinan matriks [[2,1],[3,4]] adalah?",
+    "a": "5",
+    "w": [
+     "11",
+     "8",
+     "−5"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Turunan dari ln x adalah?",
+    "a": "1/x",
+    "w": [
+     "ln x",
+     "x",
+     "e^x"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Nilai e^{iπ} (identitas Euler) adalah?",
+    "a": "−1",
+    "w": [
+     "1",
+     "0",
+     "i"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "∫₀¹ x² dx = ?",
+    "a": "1/3",
+    "w": [
+     "1/2",
+     "1",
+     "2/3"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Nilai eigen matriks diagonal diag(3, 5) adalah?",
+    "a": "3 dan 5",
+    "w": [
+     "15 dan 0",
+     "8 dan 2",
+     "3 dan −5"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Nilai deret Σ 1/n² (n=1 sampai ∞) adalah?",
+    "a": "π²/6",
+    "w": [
+     "π/2",
+     "e",
+     "ln 2"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Dimensi ruang vektor ℝ⁴ adalah?",
+    "a": "4",
+    "w": [
+     "3",
+     "16",
+     "2"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Banyaknya elemen grup simetri S₃ adalah?",
+    "a": "6",
+    "w": [
+     "3",
+     "9",
+     "12"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "∫ dari −∞ sampai ∞ e^{−x²} dx = ?",
+    "a": "√π",
+    "w": [
+     "π",
+     "1",
+     "2π"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Teorema yang menyatakan ruang metrik kompak jika dan hanya jika lengkap dan terbatas total berlaku pada?",
+    "a": "Ruang metrik",
+    "w": [
+     "Setiap ruang topologi",
+     "Hanya ℝ",
+     "Hanya ℂ"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Dalam teori grup, teorema Lagrange menyatakan orde subgrup membagi?",
+    "a": "Orde grup",
+    "w": [
+     "Ordenya sendiri",
+     "Jumlah subgrup",
+     "Pangkat dua orde grup"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Rank matriks identitas berukuran 5×5 adalah?",
+    "a": "5",
+    "w": [
+     "1",
+     "25",
+     "0"
+    ]
+   }
+  ]
+ },
+ "IPA": {
+  "SD": [
+   {
+    "lv": "easy",
+    "q": "Sumber cahaya terbesar bagi Bumi adalah?",
+    "a": "Matahari",
+    "w": [
+     "Bulan",
+     "Bintang",
+     "Komet"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Hewan yang berkembang biak dengan bertelur adalah?",
+    "a": "Ayam",
+    "w": [
+     "Sapi",
+     "Kambing",
+     "Kucing"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Alat untuk mengukur suhu adalah?",
+    "a": "Termometer",
+    "w": [
+     "Penggaris",
+     "Timbangan",
+     "Gelas ukur"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Bagian tubuh untuk melihat adalah?",
+    "a": "Mata",
+    "w": [
+     "Telinga",
+     "Hidung",
+     "Lidah"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Proses tumbuhan membuat makanan dengan cahaya disebut?",
+    "a": "Fotosintesis",
+    "w": [
+     "Respirasi",
+     "Penyerbukan",
+     "Transpirasi"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Hewan yang hidup di air dan di darat disebut?",
+    "a": "Amfibi",
+    "w": [
+     "Reptil",
+     "Mamalia",
+     "Serangga"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Planet yang dikenal sebagai planet merah adalah?",
+    "a": "Mars",
+    "w": [
+     "Venus",
+     "Jupiter",
+     "Saturnus"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Organ tubuh yang memompa darah adalah?",
+    "a": "Jantung",
+    "w": [
+     "Paru-paru",
+     "Lambung",
+     "Ginjal"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Gigi yang berfungsi untuk mengunyah disebut?",
+    "a": "Geraham",
+    "w": [
+     "Taring",
+     "Gigi seri",
+     "Gigi susu"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Benda yang dapat menarik besi adalah?",
+    "a": "Magnet",
+    "w": [
+     "Karet",
+     "Kayu",
+     "Plastik"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Bagian bunga yang menghasilkan serbuk sari adalah?",
+    "a": "Benang sari",
+    "w": [
+     "Putik",
+     "Kelopak",
+     "Mahkota"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Perubahan wujud gas menjadi cair disebut?",
+    "a": "Mengembun",
+    "w": [
+     "Menguap",
+     "Mencair",
+     "Membeku"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Hewan pemakan tumbuhan disebut?",
+    "a": "Herbivora",
+    "w": [
+     "Karnivora",
+     "Omnivora",
+     "Insektivora"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Alat pernapasan ikan adalah?",
+    "a": "Insang",
+    "w": [
+     "Paru-paru",
+     "Trakea",
+     "Kulit"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Air membeku pada suhu?",
+    "a": "0°C",
+    "w": [
+     "10°C",
+     "50°C",
+     "100°C"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Bagian tumbuhan yang menyerap air dari tanah adalah?",
+    "a": "Akar",
+    "w": [
+     "Daun",
+     "Batang",
+     "Bunga"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Perubahan wujud dari cair menjadi gas disebut?",
+    "a": "Menguap",
+    "w": [
+     "Membeku",
+     "Mencair",
+     "Mengembun"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Planet yang paling dekat dengan Matahari adalah?",
+    "a": "Merkurius",
+    "w": [
+     "Venus",
+     "Bumi",
+     "Mars"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Zat hijau daun disebut?",
+    "a": "Klorofil",
+    "w": [
+     "Hemoglobin",
+     "Melanin",
+     "Keratin"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Gaya yang menarik benda ke pusat Bumi adalah?",
+    "a": "Gravitasi",
+    "w": [
+     "Gesek",
+     "Magnet",
+     "Pegas"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Urutan daur hidup kupu-kupu yang benar adalah?",
+    "a": "Telur → larva → pupa → dewasa",
+    "w": [
+     "Telur → pupa → larva → dewasa",
+     "Larva → telur → pupa → dewasa",
+     "Telur → larva → dewasa → pupa"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Alat gerak aktif pada manusia adalah?",
+    "a": "Otot",
+    "w": [
+     "Tulang",
+     "Sendi",
+     "Tulang rawan"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Energi yang tersimpan pada makanan adalah energi?",
+    "a": "Kimia",
+    "w": [
+     "Listrik",
+     "Bunyi",
+     "Kinetik"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Rangkaian listrik yang lampunya tetap menyala jika satu lampu dicabut adalah rangkaian?",
+    "a": "Paralel",
+    "w": [
+     "Seri",
+     "Terbuka",
+     "Pendek"
+    ]
+   }
+  ],
+  "SMP": [
+   {
+    "lv": "easy",
+    "q": "Lambang kimia air adalah?",
+    "a": "H2O",
+    "w": [
+     "CO2",
+     "O2",
+     "NaCl"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Satuan gaya dalam SI adalah?",
+    "a": "Newton",
+    "w": [
+     "Joule",
+     "Watt",
+     "Pascal"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Organel tempat fotosintesis adalah?",
+    "a": "Kloroplas",
+    "w": [
+     "Mitokondria",
+     "Ribosom",
+     "Vakuola"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Campuran yang komponennya tidak merata disebut campuran?",
+    "a": "Heterogen",
+    "w": [
+     "Homogen",
+     "Murni",
+     "Unsur"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Larutan dengan pH kurang dari 7 bersifat?",
+    "a": "Asam",
+    "w": [
+     "Basa",
+     "Netral",
+     "Garam"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Jaringan tumbuhan yang mengangkut air dari akar disebut?",
+    "a": "Xilem",
+    "w": [
+     "Floem",
+     "Epidermis",
+     "Parenkim"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Hubungan dua makhluk hidup yang saling menguntungkan disebut?",
+    "a": "Mutualisme",
+    "w": [
+     "Parasitisme",
+     "Komensalisme",
+     "Predasi"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Lensa yang mengumpulkan cahaya disebut lensa?",
+    "a": "Cembung",
+    "w": [
+     "Cekung",
+     "Datar",
+     "Silinder"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Lapisan atmosfer tempat terjadinya cuaca adalah?",
+    "a": "Troposfer",
+    "w": [
+     "Stratosfer",
+     "Mesosfer",
+     "Termosfer"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Hukum Newton yang menyatakan aksi sama dengan reaksi disebut?",
+    "a": "Hukum III Newton",
+    "w": [
+     "Hukum I Newton",
+     "Hukum II Newton",
+     "Hukum Hooke"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Satuan usaha atau energi dalam SI adalah?",
+    "a": "Joule",
+    "w": [
+     "Newton",
+     "Pascal",
+     "Watt"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Jumlah kromosom sel tubuh manusia normal adalah?",
+    "a": "46",
+    "w": [
+     "23",
+     "48",
+     "44"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Satuan SI untuk massa adalah?",
+    "a": "Kilogram",
+    "w": [
+     "Gram",
+     "Newton",
+     "Joule"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Unit terkecil penyusun makhluk hidup adalah?",
+    "a": "Sel",
+    "w": [
+     "Jaringan",
+     "Organ",
+     "Sistem organ"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Organ pemompa darah adalah?",
+    "a": "Jantung",
+    "w": [
+     "Paru-paru",
+     "Hati",
+     "Ginjal"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Alat untuk mengukur suhu adalah?",
+    "a": "Termometer",
+    "w": [
+     "Barometer",
+     "Higrometer",
+     "Amperemeter"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Rumus kecepatan adalah?",
+    "a": "v = s / t",
+    "w": [
+     "v = s × t",
+     "v = t / s",
+     "v = s + t"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Organel penghasil energi sel adalah?",
+    "a": "Mitokondria",
+    "w": [
+     "Ribosom",
+     "Lisosom",
+     "Badan Golgi"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Hukum I Newton disebut juga hukum?",
+    "a": "Kelembaman",
+    "w": [
+     "Aksi-reaksi",
+     "Percepatan",
+     "Gravitasi"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Larutan asam memiliki pH?",
+    "a": "Kurang dari 7",
+    "w": [
+     "Sama dengan 7",
+     "Lebih dari 7",
+     "Sama dengan 14"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Gaya 10 N memindahkan benda sejauh 5 m. Usaha yang dilakukan adalah?",
+    "a": "50 J",
+    "w": [
+     "2 J",
+     "15 J",
+     "5 J"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Gelombang bunyi merupakan gelombang?",
+    "a": "Longitudinal",
+    "w": [
+     "Transversal",
+     "Elektromagnetik",
+     "Permukaan"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Rumus kimia garam dapur adalah?",
+    "a": "NaCl",
+    "w": [
+     "KCl",
+     "NaOH",
+     "HCl"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Tekanan hidrostatis bertambah jika?",
+    "a": "Kedalaman bertambah",
+    "w": [
+     "Luas permukaan bertambah",
+     "Wadah makin lebar",
+     "Warna zat cair berubah"
+    ]
+   }
+  ],
+  "SMA": [
+   {
+    "lv": "easy",
+    "q": "Partikel dasar bermuatan negatif dalam atom adalah?",
+    "a": "Elektron",
+    "w": [
+     "Proton",
+     "Neutron",
+     "Positron"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Satuan SI untuk daya adalah?",
+    "a": "Watt",
+    "w": [
+     "Joule",
+     "Newton",
+     "Volt"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Hukum Boyle menyatakan tekanan gas berbanding terbalik dengan?",
+    "a": "Volume",
+    "w": [
+     "Suhu",
+     "Massa",
+     "Jumlah partikel"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Reaksi yang melepaskan kalor disebut reaksi?",
+    "a": "Eksoterm",
+    "w": [
+     "Endoterm",
+     "Isoterm",
+     "Adiabatik"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Ikatan kimia dari pemakaian pasangan elektron bersama adalah ikatan?",
+    "a": "Kovalen",
+    "w": [
+     "Ionik",
+     "Logam",
+     "Hidrogen"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Pembelahan sel yang menghasilkan sel anak identik disebut?",
+    "a": "Mitosis",
+    "w": [
+     "Meiosis",
+     "Fertilisasi",
+     "Pembelahan biner"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Hormon yang mengatur kadar gula darah adalah?",
+    "a": "Insulin",
+    "w": [
+     "Adrenalin",
+     "Tiroksin",
+     "Estrogen"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Prinsip tidak ada dua elektron dengan empat bilangan kuantum sama disebut?",
+    "a": "Larangan Pauli",
+    "w": [
+     "Ketidakpastian Heisenberg",
+     "Larangan Hund",
+     "Aturan Aufbau"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Pergeseran frekuensi bunyi karena gerak sumber disebut efek?",
+    "a": "Doppler",
+    "w": [
+     "Compton",
+     "Zeeman",
+     "Stark"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Hormon tiroksin dihasilkan oleh kelenjar?",
+    "a": "Tiroid",
+    "w": [
+     "Pankreas",
+     "Adrenal",
+     "Pituitari"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Sel tanpa membran inti disebut sel?",
+    "a": "Prokariotik",
+    "w": [
+     "Eukariotik",
+     "Gamet",
+     "Zigot"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Alel yang selalu tampak pada fenotipe disebut alel?",
+    "a": "Dominan",
+    "w": [
+     "Resesif",
+     "Letal",
+     "Ganda"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Satuan gaya dalam SI adalah?",
+    "a": "Newton",
+    "w": [
+     "Joule",
+     "Watt",
+     "Pascal"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Nomor atom menunjukkan jumlah?",
+    "a": "Proton",
+    "w": [
+     "Neutron",
+     "Nukleon",
+     "Molekul"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Organel tempat sintesis protein adalah?",
+    "a": "Ribosom",
+    "w": [
+     "Lisosom",
+     "Vakuola",
+     "Sentriol"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Hasil fotosintesis adalah?",
+    "a": "Glukosa dan oksigen",
+    "w": [
+     "Karbon dioksida dan air",
+     "Etanol dan CO₂",
+     "ATP dan air"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Hukum Ohm dinyatakan dengan?",
+    "a": "V = I × R",
+    "w": [
+     "V = I / R",
+     "V = R / I",
+     "V = I + R"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Enzim yang memecah amilum di mulut adalah?",
+    "a": "Amilase",
+    "w": [
+     "Pepsin",
+     "Lipase",
+     "Tripsin"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Jarak pada GLBB dari keadaan diam dirumuskan?",
+    "a": "s = ½at²",
+    "w": [
+     "s = at",
+     "s = vt²",
+     "s = a/t"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Ikatan antara Na dan Cl pada NaCl adalah ikatan?",
+    "a": "Ionik",
+    "w": [
+     "Kovalen",
+     "Logam",
+     "Hidrogen"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Urutan tiga basa pada mRNA yang menyandi satu asam amino disebut?",
+    "a": "Kodon",
+    "w": [
+     "Antikodon",
+     "Gen",
+     "Intron"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Energi kinetik benda 2 kg yang bergerak 3 m/s adalah?",
+    "a": "9 J",
+    "w": [
+     "6 J",
+     "18 J",
+     "3 J"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Hukum I Termodinamika menyatakan?",
+    "a": "Kekekalan energi",
+    "w": [
+     "Entropi selalu naik",
+     "Kesetimbangan termal",
+     "Entropi nol pada 0 K"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Fungsi katalis dalam reaksi adalah?",
+    "a": "Menurunkan energi aktivasi",
+    "w": [
+     "Menaikkan energi aktivasi",
+     "Menggeser kesetimbangan",
+     "Menambah hasil akhir"
+    ]
+   }
+  ],
+  "PhD": [
+   {
+    "lv": "easy",
+    "q": "Struktur DNA berbentuk?",
+    "a": "Heliks ganda",
+    "w": [
+     "Lembar tunggal",
+     "Segitiga",
+     "Bola"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Teori relativitas dirumuskan oleh?",
+    "a": "Albert Einstein",
+    "w": [
+     "Isaac Newton",
+     "Niels Bohr",
+     "Max Planck"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Satuan frekuensi dalam SI adalah?",
+    "a": "Hertz",
+    "w": [
+     "Tesla",
+     "Henry",
+     "Farad"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Partikel pembawa gaya elektromagnetik adalah?",
+    "a": "Foton",
+    "w": [
+     "Gluon",
+     "Boson W",
+     "Graviton"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Teknik untuk memperbanyak fragmen DNA adalah?",
+    "a": "PCR",
+    "w": [
+     "Elektroforesis",
+     "Western blot",
+     "Mikroskop elektron"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Konstanta Planck menghubungkan energi foton dengan?",
+    "a": "Frekuensi",
+    "w": [
+     "Massa",
+     "Muatan",
+     "Suhu"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Contoh struktur sekunder protein adalah?",
+    "a": "Heliks alfa",
+    "w": [
+     "Ikatan peptida",
+     "Gugus prostetik",
+     "Subunit kuaterner"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Persamaan yang menggambarkan evolusi fungsi gelombang adalah persamaan?",
+    "a": "Schrödinger",
+    "w": [
+     "Maxwell",
+     "Bernoulli",
+     "Navier–Stokes"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Pada CRISPR-Cas9, enzim yang memotong DNA adalah?",
+    "a": "Nuklease Cas9",
+    "w": [
+     "Ligase",
+     "Taq polimerase",
+     "Helikase"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Partikel mirip Higgs diumumkan ditemukan pada 2012 di?",
+    "a": "CERN",
+    "w": [
+     "Fermilab",
+     "KEK",
+     "DESY"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Entropi sistem terisolasi cenderung?",
+    "a": "Meningkat",
+    "w": [
+     "Menurun",
+     "Tetap nol",
+     "Berosilasi"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Efek yang membuktikan sifat partikel cahaya adalah?",
+    "a": "Efek fotolistrik",
+    "w": [
+     "Interferensi Young",
+     "Difraksi celah tunggal",
+     "Polarisasi"
+    ]
+   }
+  ]
+ },
+ "IPS": {
+  "SD": [
+   {
+    "lv": "easy",
+    "q": "Ibu kota Indonesia adalah?",
+    "a": "Jakarta",
+    "w": [
+     "Bandung",
+     "Surabaya",
+     "Medan"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Mata uang yang berlaku di Indonesia adalah?",
+    "a": "Rupiah",
+    "w": [
+     "Ringgit",
+     "Yen",
+     "Dolar"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Pulau dengan penduduk terbanyak di Indonesia adalah?",
+    "a": "Jawa",
+    "w": [
+     "Sumatera",
+     "Sulawesi",
+     "Papua"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Pahlawan yang memimpin perlawanan rakyat Surabaya adalah?",
+    "a": "Bung Tomo",
+    "w": [
+     "Ki Hajar Dewantara",
+     "Pangeran Diponegoro",
+     "Teuku Umar"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Proklamasi Kemerdekaan Indonesia dibacakan pada tanggal?",
+    "a": "17 Agustus 1945",
+    "w": [
+     "17 Agustus 1950",
+     "1 Juni 1945",
+     "10 November 1945"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Hari Kartini diperingati setiap tanggal?",
+    "a": "21 April",
+    "w": [
+     "2 Mei",
+     "20 Mei",
+     "10 November"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Rumah adat Joglo berasal dari daerah?",
+    "a": "Jawa Tengah",
+    "w": [
+     "Bali",
+     "Sumatera Barat",
+     "Papua"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Tari Piring berasal dari daerah?",
+    "a": "Sumatera Barat",
+    "w": [
+     "Jawa Tengah",
+     "Bali",
+     "Papua"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Kegiatan jual beli barang di pasar disebut?",
+    "a": "Perdagangan",
+    "w": [
+     "Pertanian",
+     "Industri",
+     "Peternakan"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Kebutuhan pokok manusia terdiri dari sandang, pangan, dan?",
+    "a": "Papan",
+    "w": [
+     "Pendidikan",
+     "Hiburan",
+     "Transportasi"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Pahlawan wanita dari Jepara adalah?",
+    "a": "R.A. Kartini",
+    "w": [
+     "Cut Nyak Dhien",
+     "Dewi Sartika",
+     "Martha Christina Tiahahu"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Negara tetangga Indonesia di utara Kalimantan adalah?",
+    "a": "Malaysia",
+    "w": [
+     "Filipina",
+     "Brunei",
+     "Thailand"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Lambang negara Indonesia adalah?",
+    "a": "Garuda Pancasila",
+    "w": [
+     "Merpati",
+     "Elang Jawa",
+     "Harimau"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Mata uang Indonesia adalah?",
+    "a": "Rupiah",
+    "w": [
+     "Ringgit",
+     "Baht",
+     "Peso"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Proklamasi kemerdekaan Indonesia dibacakan pada?",
+    "a": "17 Agustus 1945",
+    "w": [
+     "28 Oktober 1928",
+     "1 Juni 1945",
+     "10 November 1945"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Lagu kebangsaan Indonesia adalah?",
+    "a": "Indonesia Raya",
+    "w": [
+     "Garuda Pancasila",
+     "Halo-Halo Bandung",
+     "Padamu Negeri"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Rumah adat Minangkabau adalah?",
+    "a": "Rumah Gadang",
+    "w": [
+     "Joglo",
+     "Honai",
+     "Tongkonan"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Penulis Habis Gelap Terbitlah Terang dari Jepara adalah?",
+    "a": "R.A. Kartini",
+    "w": [
+     "Cut Nyak Dien",
+     "Dewi Sartika",
+     "Martha Christina Tiahahu"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Gunung tertinggi di Pulau Jawa adalah?",
+    "a": "Semeru",
+    "w": [
+     "Merapi",
+     "Bromo",
+     "Slamet"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Presiden pertama Republik Indonesia adalah?",
+    "a": "Soekarno",
+    "w": [
+     "Soeharto",
+     "Mohammad Hatta",
+     "B.J. Habibie"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Sumpah Pemuda diikrarkan pada tahun?",
+    "a": "1928",
+    "w": [
+     "1945",
+     "1908",
+     "1966"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Budi Utomo berdiri pada tahun?",
+    "a": "1908",
+    "w": [
+     "1928",
+     "1945",
+     "1912"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Selat yang memisahkan Pulau Sumatra dan Jawa adalah?",
+    "a": "Selat Sunda",
+    "w": [
+     "Selat Malaka",
+     "Selat Bali",
+     "Selat Makassar"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Garis khayal yang membagi bumi menjadi belahan utara dan selatan adalah?",
+    "a": "Khatulistiwa",
+    "w": [
+     "Garis bujur",
+     "Meridian utama",
+     "Garis tanggal"
+    ]
+   }
+  ],
+  "SMP": [
+   {
+    "lv": "easy",
+    "q": "Sumber daya alam yang dapat diperbarui adalah?",
+    "a": "Angin",
+    "w": [
+     "Minyak bumi",
+     "Batu bara",
+     "Gas alam"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Penjajahan Jepang di Indonesia dimulai pada tahun?",
+    "a": "1942",
+    "w": [
+     "1945",
+     "1939",
+     "1948"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Perjanjian Linggarjati ditandatangani pada tahun?",
+    "a": "1946",
+    "w": [
+     "1948",
+     "1949",
+     "1942"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Lembaga legislatif tingkat nasional di Indonesia adalah?",
+    "a": "DPR",
+    "w": [
+     "MA",
+     "MK",
+     "BPK"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Candi Angkor Wat terletak di negara?",
+    "a": "Kamboja",
+    "w": [
+     "Thailand",
+     "Vietnam",
+     "Laos"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Kerajaan Sriwijaya berpusat di kota?",
+    "a": "Palembang",
+    "w": [
+     "Trowulan",
+     "Demak",
+     "Banten"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Kegiatan ekonomi yang menghasilkan barang disebut?",
+    "a": "Produksi",
+    "w": [
+     "Konsumsi",
+     "Distribusi",
+     "Impor"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Pasar yang dikuasai satu penjual disebut?",
+    "a": "Monopoli",
+    "w": [
+     "Oligopoli",
+     "Monopsoni",
+     "Duopoli"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Lembaga pengatur kebijakan moneter Indonesia adalah?",
+    "a": "Bank Indonesia",
+    "w": [
+     "Kementerian Keuangan",
+     "Bursa Efek",
+     "OJK"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Sistem ekonomi yang memadukan pasar dan peran negara disebut?",
+    "a": "Ekonomi campuran",
+    "w": [
+     "Ekonomi pasar",
+     "Ekonomi terpusat",
+     "Ekonomi subsisten"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Revolusi Industri pertama dimulai di negara?",
+    "a": "Inggris",
+    "w": [
+     "Prancis",
+     "Jerman",
+     "Amerika Serikat"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Ibu kota Brasil adalah?",
+    "a": "Brasilia",
+    "w": [
+     "Rio de Janeiro",
+     "Sao Paulo",
+     "Buenos Aires"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Ibu kota Provinsi Jawa Barat adalah?",
+    "a": "Bandung",
+    "w": [
+     "Semarang",
+     "Surabaya",
+     "Serang"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Samudra yang berada di sebelah timur Indonesia adalah?",
+    "a": "Pasifik",
+    "w": [
+     "Hindia",
+     "Atlantik",
+     "Arktik"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Ilmu yang mempelajari kehidupan masyarakat adalah?",
+    "a": "Sosiologi",
+    "w": [
+     "Geologi",
+     "Biologi",
+     "Astronomi"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Negara tetangga Indonesia di Pulau Kalimantan bagian utara adalah?",
+    "a": "Malaysia",
+    "w": [
+     "Filipina",
+     "Thailand",
+     "Vietnam"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "ASEAN didirikan pada 1967 di?",
+    "a": "Bangkok",
+    "w": [
+     "Jakarta",
+     "Manila",
+     "Kuala Lumpur"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Kerajaan Hindu tertua di Indonesia adalah?",
+    "a": "Kutai",
+    "w": [
+     "Majapahit",
+     "Sriwijaya",
+     "Mataram"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Perang Diponegoro disebut juga?",
+    "a": "Perang Jawa",
+    "w": [
+     "Perang Padri",
+     "Perang Aceh",
+     "Perang Banjar"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Kelangkaan terjadi karena?",
+    "a": "Kebutuhan tidak terbatas sedangkan sumber daya terbatas",
+    "w": [
+     "Harga barang murah",
+     "Produksi berlebih",
+     "Pajak rendah"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Salah satu program Politik Etis adalah?",
+    "a": "Edukasi",
+    "w": [
+     "Tanam paksa",
+     "Kerja rodi",
+     "Monopoli VOC"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Konferensi Asia-Afrika di Bandung berlangsung pada tahun?",
+    "a": "1955",
+    "w": [
+     "1945",
+     "1961",
+     "1965"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Perjanjian yang membagi Mataram menjadi Surakarta dan Yogyakarta adalah?",
+    "a": "Giyanti",
+    "w": [
+     "Linggarjati",
+     "Renville",
+     "Roem-Royen"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Inflasi adalah?",
+    "a": "Kenaikan harga barang secara umum dan terus-menerus",
+    "w": [
+     "Penurunan harga barang",
+     "Naiknya nilai tukar",
+     "Bertambahnya pengangguran"
+    ]
+   }
+  ],
+  "SMA": [
+   {
+    "lv": "easy",
+    "q": "Wakil presiden pertama Republik Indonesia adalah?",
+    "a": "Mohammad Hatta",
+    "w": [
+     "Sutan Sjahrir",
+     "Adam Malik",
+     "Tan Malaka"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Perjanjian Renville ditandatangani pada tahun?",
+    "a": "1948",
+    "w": [
+     "1947",
+     "1949",
+     "1946"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "ASEAN didirikan pada tahun?",
+    "a": "1967",
+    "w": [
+     "1965",
+     "1970",
+     "1975"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Perang Dunia II berakhir pada tahun?",
+    "a": "1945",
+    "w": [
+     "1944",
+     "1946",
+     "1950"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Lembaga yang menguji undang-undang terhadap UUD 1945 adalah?",
+    "a": "Mahkamah Konstitusi",
+    "w": [
+     "Mahkamah Agung",
+     "DPR",
+     "Komisi Yudisial"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Kenaikan harga barang secara umum disebut?",
+    "a": "Inflasi",
+    "w": [
+     "Deflasi",
+     "Stagflasi",
+     "Resesi"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Kebijakan fiskal dilakukan pemerintah dengan mengatur?",
+    "a": "Pajak dan belanja negara",
+    "w": [
+     "Suku bunga",
+     "Jumlah uang beredar",
+     "Nilai tukar"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Kerajaan Hindu terbesar di Jawa Timur abad ke-14 adalah?",
+    "a": "Majapahit",
+    "w": [
+     "Mataram Kuno",
+     "Kediri",
+     "Singasari"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Sistem ekonomi yang alat produksinya dikuasai negara disebut?",
+    "a": "Ekonomi terpusat",
+    "w": [
+     "Ekonomi pasar",
+     "Ekonomi campuran",
+     "Ekonomi tradisional"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Organisasi Konferensi Asia Afrika 1955 digelar di kota?",
+    "a": "Bandung",
+    "w": [
+     "Jakarta",
+     "Yogyakarta",
+     "Surabaya"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Blok negara yang dipimpin Amerika Serikat pada Perang Dingin disebut?",
+    "a": "Blok Barat",
+    "w": [
+     "Blok Timur",
+     "Blok Non-Blok",
+     "Blok Selatan"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Tokoh yang mencetuskan teori evolusi melalui seleksi alam adalah?",
+    "a": "Charles Darwin",
+    "w": [
+     "Gregor Mendel",
+     "Louis Pasteur",
+     "Jean Lamarck"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Pemilu di Indonesia dilaksanakan setiap?",
+    "a": "5 tahun",
+    "w": [
+     "3 tahun",
+     "4 tahun",
+     "10 tahun"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Pajak yang dikenakan atas penghasilan disebut?",
+    "a": "PPh",
+    "w": [
+     "PPN",
+     "PBB",
+     "Bea masuk"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Garis Tanggal Internasional kira-kira berada pada bujur?",
+    "a": "180°",
+    "w": [
+     "0°",
+     "90°",
+     "45°"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Lembaga negara yang membuat undang-undang bersama presiden adalah?",
+    "a": "DPR",
+    "w": [
+     "MA",
+     "BPK",
+     "KPK"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Revolusi Prancis meletus pada tahun?",
+    "a": "1789",
+    "w": [
+     "1776",
+     "1848",
+     "1917"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Menurut hukum permintaan, jika harga naik maka jumlah barang yang diminta?",
+    "a": "Turun",
+    "w": [
+     "Naik",
+     "Tetap",
+     "Tak terbatas"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Bentuk pemerintahan dengan kepala negara seorang raja disebut?",
+    "a": "Monarki",
+    "w": [
+     "Republik",
+     "Federasi",
+     "Anarki"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Penulis The Wealth of Nations adalah?",
+    "a": "Adam Smith",
+    "w": [
+     "David Ricardo",
+     "John M. Keynes",
+     "Karl Marx"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Penulis Das Kapital adalah?",
+    "a": "Karl Marx",
+    "w": [
+     "Adam Smith",
+     "Max Weber",
+     "Auguste Comte"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Dekrit Presiden 5 Juli 1959 menetapkan kembali berlakunya?",
+    "a": "UUD 1945",
+    "w": [
+     "UUDS 1950",
+     "Konstitusi RIS",
+     "UU Pokok Agraria"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Hasil utama Konferensi Meja Bundar 1949 adalah?",
+    "a": "Pengakuan kedaulatan Indonesia oleh Belanda",
+    "w": [
+     "Bubarnya VOC",
+     "Kemerdekaan Timor Timur",
+     "Berdirinya ASEAN"
+    ]
+   }
+  ],
+  "PhD": [
+   {
+    "lv": "easy",
+    "q": "Tokoh yang memperkenalkan istilah sosiologi adalah?",
+    "a": "Auguste Comte",
+    "w": [
+     "Karl Marx",
+     "Max Weber",
+     "Émile Durkheim"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Metode penelitian yang berbasis angka dan statistik adalah?",
+    "a": "Kuantitatif",
+    "w": [
+     "Kualitatif",
+     "Etnografi",
+     "Fenomenologi"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Ilmu yang mempelajari manusia dan kebudayaannya adalah?",
+    "a": "Antropologi",
+    "w": [
+     "Arkeologi",
+     "Geologi",
+     "Paleontologi"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Bapak ekonomi klasik adalah?",
+    "a": "Adam Smith",
+    "w": [
+     "Karl Marx",
+     "John M. Keynes",
+     "Milton Friedman"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Buku Orientalism ditulis oleh?",
+    "a": "Edward Said",
+    "w": [
+     "Frantz Fanon",
+     "Michel Foucault",
+     "Antonio Gramsci"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Konsep solidaritas mekanik dan organik dikemukakan oleh?",
+    "a": "Émile Durkheim",
+    "w": [
+     "Max Weber",
+     "Karl Marx",
+     "Georg Simmel"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Kurva yang menggambarkan ketimpangan distribusi pendapatan adalah?",
+    "a": "Kurva Lorenz",
+    "w": [
+     "Kurva Phillips",
+     "Kurva Laffer",
+     "Kurva Engel"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Rasio Gini digunakan untuk mengukur?",
+    "a": "Ketimpangan",
+    "w": [
+     "Inflasi",
+     "Pengangguran",
+     "Pertumbuhan penduduk"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Karya The Protestant Ethic and the Spirit of Capitalism ditulis oleh?",
+    "a": "Max Weber",
+    "w": [
+     "Karl Marx",
+     "Émile Durkheim",
+     "Talcott Parsons"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Buku Imagined Communities tentang nasionalisme ditulis oleh?",
+    "a": "Benedict Anderson",
+    "w": [
+     "Ernest Gellner",
+     "Eric Hobsbawm",
+     "Samuel Huntington"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Teori The Clash of Civilizations dikemukakan oleh?",
+    "a": "Samuel Huntington",
+    "w": [
+     "Francis Fukuyama",
+     "Henry Kissinger",
+     "Joseph Nye"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Konsep habitus dan modal budaya dikembangkan oleh?",
+    "a": "Pierre Bourdieu",
+    "w": [
+     "Erving Goffman",
+     "Anthony Giddens",
+     "Talcott Parsons"
+    ]
+   }
+  ]
+ },
+ "PPKN": {
+  "SD": [
+   {
+    "lv": "easy",
+    "q": "Sila ke-1 Pancasila berbunyi?",
+    "a": "Ketuhanan Yang Maha Esa",
+    "w": [
+     "Kemanusiaan yang adil dan beradab",
+     "Persatuan Indonesia",
+     "Keadilan sosial bagi seluruh rakyat Indonesia"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Lambang sila ke-1 Pancasila adalah?",
+    "a": "Bintang",
+    "w": [
+     "Rantai",
+     "Pohon beringin",
+     "Kepala banteng"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Lambang negara Indonesia adalah?",
+    "a": "Garuda Pancasila",
+    "w": [
+     "Elang Jawa",
+     "Rajawali",
+     "Merpati"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Semboyan negara Indonesia adalah?",
+    "a": "Bhinneka Tunggal Ika",
+    "w": [
+     "Tut Wuri Handayani",
+     "Merdeka",
+     "Satya Lencana"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Lagu kebangsaan Indonesia adalah?",
+    "a": "Indonesia Raya",
+    "w": [
+     "Garuda Pancasila",
+     "Halo-Halo Bandung",
+     "Maju Tak Gentar"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Warna bendera Indonesia adalah?",
+    "a": "Merah putih",
+    "w": [
+     "Merah biru",
+     "Hijau putih",
+     "Kuning hitam"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Hari Pahlawan diperingati setiap tanggal?",
+    "a": "10 November",
+    "w": [
+     "17 Agustus",
+     "21 April",
+     "2 Mei"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Hari Sumpah Pemuda diperingati setiap tanggal?",
+    "a": "28 Oktober",
+    "w": [
+     "17 Agustus",
+     "20 Mei",
+     "1 Juni"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Sikap saling tolong-menolong disebut?",
+    "a": "Gotong royong",
+    "w": [
+     "Individualisme",
+     "Egoisme",
+     "Persaingan"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Contoh sikap disiplin di sekolah adalah?",
+    "a": "Datang tepat waktu",
+    "w": [
+     "Membolos",
+     "Berbohong",
+     "Mencontek"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Sila ke-3 Pancasila berbunyi?",
+    "a": "Persatuan Indonesia",
+    "w": [
+     "Ketuhanan Yang Maha Esa",
+     "Kemanusiaan yang adil dan beradab",
+     "Keadilan sosial bagi seluruh rakyat Indonesia"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Setiap warga negara berhak mendapatkan?",
+    "a": "Pendidikan",
+    "w": [
+     "Membayar utang",
+     "Menghina orang lain",
+     "Membuang sampah sembarangan"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Semboyan bangsa Indonesia adalah?",
+    "a": "Bhinneka Tunggal Ika",
+    "w": [
+     "Tut Wuri Handayani",
+     "Merdeka atau Mati",
+     "Satu Nusa Satu Bangsa"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Warna bendera Indonesia dari atas ke bawah adalah?",
+    "a": "Merah dan putih",
+    "w": [
+     "Putih dan merah",
+     "Merah dan biru",
+     "Kuning dan merah"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Hari Lahir Pancasila diperingati setiap tanggal?",
+    "a": "1 Juni",
+    "w": [
+     "17 Agustus",
+     "28 Oktober",
+     "2 Mei"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Lambang sila ke-2 Pancasila adalah?",
+    "a": "Rantai",
+    "w": [
+     "Bintang",
+     "Pohon beringin",
+     "Padi dan kapas"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Keputusan bersama di kelas sebaiknya diambil dengan?",
+    "a": "Musyawarah",
+    "w": [
+     "Paksaan",
+     "Undian curang",
+     "Perintah ketua saja"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Contoh sikap gotong royong adalah?",
+    "a": "Kerja bakti membersihkan lingkungan",
+    "w": [
+     "Mengejek teman",
+     "Membuang sampah sembarangan",
+     "Menyontek saat ujian"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Kewajiban siswa di sekolah adalah?",
+    "a": "Menaati tata tertib",
+    "w": [
+     "Sengaja terlambat",
+     "Mengotori kelas",
+     "Membolos"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Lambang sila ke-4 Pancasila adalah?",
+    "a": "Kepala banteng",
+    "w": [
+     "Pohon beringin",
+     "Rantai",
+     "Bintang"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Lambang sila ke-5 Pancasila adalah?",
+    "a": "Padi dan kapas",
+    "w": [
+     "Rantai",
+     "Kepala banteng",
+     "Bintang"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "UUD 1945 disahkan pada tanggal?",
+    "a": "18 Agustus 1945",
+    "w": [
+     "17 Agustus 1945",
+     "1 Juni 1945",
+     "22 Juni 1945"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Lembaga yang membuat undang-undang bersama presiden adalah?",
+    "a": "DPR",
+    "w": [
+     "MA",
+     "BPK",
+     "KPK"
+    ]
+   }
+  ],
+  "SMP": [
+   {
+    "lv": "easy",
+    "q": "Lembaga legislatif tingkat nasional di Indonesia adalah?",
+    "a": "DPR",
+    "w": [
+     "MA",
+     "MK",
+     "BPK"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "UUD 1945 disahkan pada tanggal?",
+    "a": "18 Agustus 1945",
+    "w": [
+     "17 Agustus 1945",
+     "1 Juni 1945",
+     "28 Oktober 1928"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Bentuk negara Indonesia adalah?",
+    "a": "Kesatuan",
+    "w": [
+     "Federal",
+     "Konfederasi",
+     "Serikat"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Sistem pemerintahan Indonesia adalah?",
+    "a": "Presidensial",
+    "w": [
+     "Parlementer",
+     "Monarki",
+     "Diktator"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Lembaga yudikatif tertinggi di Indonesia adalah?",
+    "a": "Mahkamah Agung",
+    "w": [
+     "DPR",
+     "DPD",
+     "BPK"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Kedaulatan di Indonesia berada di tangan?",
+    "a": "Rakyat",
+    "w": [
+     "Presiden",
+     "Militer",
+     "Raja"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Jumlah amandemen UUD 1945 adalah?",
+    "a": "4",
+    "w": [
+     "2",
+     "3",
+     "5"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Otonomi daerah dilaksanakan oleh?",
+    "a": "Pemerintah daerah",
+    "w": [
+     "Pemerintah pusat",
+     "DPR",
+     "MPR"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Sikap toleransi antarumat beragama ditunjukkan dengan?",
+    "a": "Saling menghormati",
+    "w": [
+     "Memaksakan keyakinan",
+     "Membenci",
+     "Mengejek"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Lembaga penyelenggara pemilu di Indonesia adalah?",
+    "a": "KPU",
+    "w": [
+     "Bawaslu",
+     "DKPP",
+     "MK"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Pancasila berfungsi sebagai?",
+    "a": "Dasar negara",
+    "w": [
+     "Bahasa negara",
+     "Lambang negara",
+     "Mata uang negara"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Pelanggaran HAM berupa perlakuan tidak adil disebut?",
+    "a": "Diskriminasi",
+    "w": [
+     "Kerja sama",
+     "Toleransi",
+     "Musyawarah"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Jumlah alinea Pembukaan UUD 1945 adalah?",
+    "a": "4",
+    "w": [
+     "3",
+     "5",
+     "2"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "HAM adalah singkatan dari?",
+    "a": "Hak Asasi Manusia",
+    "w": [
+     "Hukum Asasi Manusia",
+     "Hak Atas Manusia",
+     "Hukum Antar Masyarakat"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Presiden dan wakil presiden dipilih langsung oleh?",
+    "a": "Rakyat",
+    "w": [
+     "MPR",
+     "DPR",
+     "Mahkamah Agung"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Hari Sumpah Pemuda diperingati setiap tanggal?",
+    "a": "28 Oktober",
+    "w": [
+     "20 Mei",
+     "17 Agustus",
+     "10 November"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Semboyan Bhinneka Tunggal Ika diambil dari kitab?",
+    "a": "Sutasoma",
+    "w": [
+     "Negarakertagama",
+     "Pararaton",
+     "Ramayana"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "MPR terdiri atas anggota DPR dan?",
+    "a": "DPD",
+    "w": [
+     "DPRD",
+     "BPK",
+     "MK"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Kebebasan berpendapat sebaiknya disampaikan dengan?",
+    "a": "Santun dan bertanggung jawab",
+    "w": [
+     "Menyebar hoaks",
+     "Menghina pihak lain",
+     "Memaksa orang setuju"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Pancasila sebagai pandangan hidup berarti menjadi?",
+    "a": "Pedoman sikap dan perilaku bangsa",
+    "w": [
+     "Hiasan dinding",
+     "Lambang saja",
+     "Aturan sekolah saja"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "UUD 1945 telah diamandemen sebanyak?",
+    "a": "4 kali",
+    "w": [
+     "2 kali",
+     "3 kali",
+     "5 kali"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Lembaga yang menguji undang-undang terhadap UUD 1945 adalah?",
+    "a": "Mahkamah Konstitusi",
+    "w": [
+     "Mahkamah Agung",
+     "Komisi Yudisial",
+     "DPR"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Piagam Jakarta dirumuskan pada tanggal?",
+    "a": "22 Juni 1945",
+    "w": [
+     "1 Juni 1945",
+     "18 Agustus 1945",
+     "17 Agustus 1945"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Pasal 1 ayat (3) UUD 1945 menyatakan Indonesia adalah negara?",
+    "a": "Hukum",
+    "w": [
+     "Kekuasaan",
+     "Federal",
+     "Agama"
+    ]
+   }
+  ],
+  "SMA": [
+   {
+    "lv": "easy",
+    "q": "Indonesia menurut UUD 1945 adalah negara?",
+    "a": "Hukum",
+    "w": [
+     "Kekuasaan",
+     "Agama",
+     "Militer"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Lembaga pemeriksa keuangan negara adalah?",
+    "a": "BPK",
+    "w": [
+     "BPKP",
+     "KPK",
+     "OJK"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Lembaga yang memberantas korupsi di Indonesia adalah?",
+    "a": "KPK",
+    "w": [
+     "Kejaksaan",
+     "Polri",
+     "BPK"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Prinsip utama negara demokrasi adalah?",
+    "a": "Kedaulatan rakyat",
+    "w": [
+     "Kedaulatan raja",
+     "Kekuasaan militer",
+     "Kekuasaan agama"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Tokoh pencetus teori trias politika adalah?",
+    "a": "Montesquieu",
+    "w": [
+     "Rousseau",
+     "John Locke",
+     "Thomas Hobbes"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Lembaga yang berwenang menguji undang-undang adalah?",
+    "a": "Mahkamah Konstitusi",
+    "w": [
+     "Mahkamah Agung",
+     "DPR",
+     "Komisi Yudisial"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Masa jabatan presiden Indonesia adalah?",
+    "a": "5 tahun",
+    "w": [
+     "4 tahun",
+     "6 tahun",
+     "3 tahun"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Pemilu di Indonesia dilaksanakan setiap berapa tahun?",
+    "a": "5",
+    "w": [
+     "4",
+     "3",
+     "6"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Organisasi perdamaian dunia yang berpusat di New York adalah?",
+    "a": "PBB",
+    "w": [
+     "ASEAN",
+     "OKI",
+     "OPEC"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Pancasila berfungsi sebagai?",
+    "a": "Dasar negara",
+    "w": [
+     "Bahasa negara",
+     "Lambang negara",
+     "Mata uang negara"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Hak pilih warga negara dalam pemilu termasuk hak?",
+    "a": "Politik",
+    "w": [
+     "Ekonomi",
+     "Budaya",
+     "Sosial"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Hak warga negara yang dijamin UUD 1945 meliputi?",
+    "a": "Kebebasan berpendapat",
+    "w": [
+     "Kebebasan mutlak tanpa aturan",
+     "Hak memiliki militer",
+     "Hak membuat mata uang"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Teori Trias Politica dikemukakan oleh?",
+    "a": "Montesquieu",
+    "w": [
+     "Jean Bodin",
+     "Plato",
+     "Machiavelli"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Pemilu di Indonesia dilaksanakan setiap?",
+    "a": "5 tahun",
+    "w": [
+     "4 tahun",
+     "3 tahun",
+     "10 tahun"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Ideologi negara Indonesia adalah?",
+    "a": "Pancasila",
+    "w": [
+     "Liberalisme",
+     "Komunisme",
+     "Sosialisme"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Reformasi di Indonesia terjadi pada tahun?",
+    "a": "1998",
+    "w": [
+     "1966",
+     "2004",
+     "1945"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Deklarasi Universal HAM (DUHAM) diumumkan PBB pada tahun?",
+    "a": "1948",
+    "w": [
+     "1945",
+     "1966",
+     "1959"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Lembaga negara yang memeriksa keuangan negara adalah?",
+    "a": "BPK",
+    "w": [
+     "KPK",
+     "MA",
+     "DPD"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Tujuan otonomi daerah adalah?",
+    "a": "Mendekatkan pelayanan publik kepada masyarakat",
+    "w": [
+     "Memusatkan semua kekuasaan",
+     "Menghapus pemerintah daerah",
+     "Menghilangkan pajak"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Buku Kontrak Sosial ditulis oleh?",
+    "a": "Jean-Jacques Rousseau",
+    "w": [
+     "Montesquieu",
+     "Thomas Hobbes",
+     "Aristoteles"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Dekrit Presiden 5 Juli 1959 memberlakukan kembali?",
+    "a": "UUD 1945",
+    "w": [
+     "UUDS 1950",
+     "Konstitusi RIS",
+     "UU Pokok Agraria"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Magna Carta ditandatangani pada tahun?",
+    "a": "1215",
+    "w": [
+     "1689",
+     "1776",
+     "1789"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Jenjang peraturan perundang-undangan tepat di bawah UUD 1945 adalah?",
+    "a": "Ketetapan MPR",
+    "w": [
+     "Peraturan Pemerintah",
+     "Peraturan Presiden",
+     "Peraturan Daerah"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Kedaulatan rakyat dalam UUD 1945 tercantum pada?",
+    "a": "Pasal 1 ayat (2)",
+    "w": [
+     "Pasal 27",
+     "Pasal 33",
+     "Pasal 28A"
+    ]
+   }
+  ],
+  "PhD": [
+   {
+    "lv": "easy",
+    "q": "Penggagas lima asas dasar negara dalam pidato 1 Juni 1945 adalah?",
+    "a": "Soekarno",
+    "w": [
+     "Mohammad Yamin",
+     "Soepomo",
+     "Mohammad Hatta"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Paham yang membatasi kekuasaan negara dengan konstitusi disebut?",
+    "a": "Konstitusionalisme",
+    "w": [
+     "Absolutisme",
+     "Totalitarianisme",
+     "Anarkisme"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Kata demokrasi berasal dari bahasa?",
+    "a": "Yunani",
+    "w": [
+     "Latin",
+     "Arab",
+     "Sanskerta"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Demos dalam kata demokrasi berarti?",
+    "a": "Rakyat",
+    "w": [
+     "Kekuasaan",
+     "Hukum",
+     "Pemimpin"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Konsep The Rule of Law dipopulerkan oleh?",
+    "a": "A.V. Dicey",
+    "w": [
+     "Hans Kelsen",
+     "Carl Schmitt",
+     "John Austin"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Kasus yang melahirkan judicial review di Amerika Serikat adalah?",
+    "a": "Marbury v. Madison",
+    "w": [
+     "Brown v. Board of Education",
+     "Roe v. Wade",
+     "Miranda v. Arizona"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Buku A Theory of Justice ditulis oleh?",
+    "a": "John Rawls",
+    "w": [
+     "Robert Nozick",
+     "Jürgen Habermas",
+     "Michael Sandel"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Teori demokrasi deliberatif dikembangkan oleh?",
+    "a": "Jürgen Habermas",
+    "w": [
+     "John Locke",
+     "Joseph Schumpeter",
+     "Robert Dahl"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Teori jenjang norma (Stufenbau) dikemukakan oleh?",
+    "a": "Hans Kelsen",
+    "w": [
+     "John Rawls",
+     "Carl Schmitt",
+     "Montesquieu"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Konsep Staatsfundamentalnorm dikemukakan oleh?",
+    "a": "Hans Nawiasky",
+    "w": [
+     "Hans Kelsen",
+     "A.V. Dicey",
+     "Jean Bodin"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Tiga generasi HAM dikemukakan oleh?",
+    "a": "Karel Vasak",
+    "w": [
+     "John Locke",
+     "Eleanor Roosevelt",
+     "Hugo Grotius"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Veil of ignorance digunakan Rawls untuk?",
+    "a": "Menentukan prinsip keadilan secara imparsial",
+    "w": [
+     "Membenarkan monarki",
+     "Menolak konstitusi",
+     "Menghapus pajak"
+    ]
+   }
+  ]
+ },
+ "AJW": {
+  "SD": [
+   {
+    "lv": "easy",
+    "q": "Aksara Jawa ꦲ dibaca?",
+    "a": "ha",
+    "w": [
+     "na",
+     "ca",
+     "ra"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Aksara Jawa ꦤ dibaca?",
+    "a": "na",
+    "w": [
+     "ha",
+     "ma",
+     "ka"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Aksara Jawa ꦕ dibaca?",
+    "a": "ca",
+    "w": [
+     "ja",
+     "ta",
+     "sa"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Aksara Jawa ꦫ dibaca?",
+    "a": "ra",
+    "w": [
+     "la",
+     "wa",
+     "ya"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Aksara Jawa ꦏ dibaca?",
+    "a": "ka",
+    "w": [
+     "ga",
+     "ba",
+     "pa"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Aksara Jawa ꦩ dibaca?",
+    "a": "ma",
+    "w": [
+     "na",
+     "pa",
+     "ga"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Aksara Jawa ꦭ dibaca?",
+    "a": "la",
+    "w": [
+     "ra",
+     "da",
+     "wa"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Aksara Jawa ꦢ dibaca?",
+    "a": "da",
+    "w": [
+     "ta",
+     "dha",
+     "ba"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Aksara Jawa ꦱ dibaca?",
+    "a": "sa",
+    "w": [
+     "ca",
+     "ja",
+     "ka"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Aksara Jawa ꦮ dibaca?",
+    "a": "wa",
+    "w": [
+     "ya",
+     "ra",
+     "la"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Aksara Jawa ꦪ dibaca?",
+    "a": "ya",
+    "w": [
+     "wa",
+     "ra",
+     "ma"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Aksara Jawa ꦗ dibaca?",
+    "a": "ja",
+    "w": [
+     "ca",
+     "ya",
+     "nga"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Aksara Jawa ꦠ dibaca?",
+    "a": "ta",
+    "w": [
+     "da",
+     "sa",
+     "pa"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Aksara Jawa ꦥ dibaca?",
+    "a": "pa",
+    "w": [
+     "ba",
+     "ma",
+     "ya"
+    ]
+   }
+  ],
+  "SMP": [
+   {
+    "lv": "easy",
+    "q": "Huruf ba dalam aksara Jawa adalah?",
+    "a": "ꦧ",
+    "w": [
+     "ꦥ",
+     "ꦮ",
+     "ꦢ"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Huruf pa dalam aksara Jawa adalah?",
+    "a": "ꦥ",
+    "w": [
+     "ꦧ",
+     "ꦭ",
+     "ꦩ"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Huruf ga dalam aksara Jawa adalah?",
+    "a": "ꦒ",
+    "w": [
+     "ꦕ",
+     "ꦗ",
+     "ꦔ"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Huruf nga dalam aksara Jawa adalah?",
+    "a": "ꦔ",
+    "w": [
+     "ꦒ",
+     "ꦝ",
+     "ꦗ"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Huruf dha dalam aksara Jawa adalah?",
+    "a": "ꦝ",
+    "w": [
+     "ꦠ",
+     "ꦢ",
+     "ꦫ"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Huruf ta dalam aksara Jawa adalah?",
+    "a": "ꦠ",
+    "w": [
+     "ꦢ",
+     "ꦝ",
+     "ꦫ"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Huruf ja dalam aksara Jawa adalah?",
+    "a": "ꦗ",
+    "w": [
+     "ꦕ",
+     "ꦪ",
+     "ꦒ"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Huruf sa dalam aksara Jawa adalah?",
+    "a": "ꦱ",
+    "w": [
+     "ꦮ",
+     "ꦭ",
+     "ꦠ"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Huruf ya dalam aksara Jawa adalah?",
+    "a": "ꦪ",
+    "w": [
+     "ꦫ",
+     "ꦭ",
+     "ꦮ"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Huruf la dalam aksara Jawa adalah?",
+    "a": "ꦭ",
+    "w": [
+     "ꦮ",
+     "ꦪ",
+     "ꦩ"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Jumlah aksara nglegena (dasar) Jawa adalah?",
+    "a": "20",
+    "w": [
+     "18",
+     "22",
+     "24"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Aksara Jawa ꦲ termasuk jenis aksara?",
+    "a": "Nglegena",
+    "w": [
+     "Pasangan",
+     "Sandhangan",
+     "Murda"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Jumlah aksara nglegena (hanacaraka) adalah?",
+    "a": "20",
+    "w": [
+     "15",
+     "25",
+     "30"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Aksara Jawa ditulis dari arah?",
+    "a": "Kiri ke kanan",
+    "w": [
+     "Kanan ke kiri",
+     "Atas ke bawah",
+     "Bawah ke atas"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Aksara Jawa ꦩ dibaca?",
+    "a": "ma",
+    "w": [
+     "na",
+     "ba",
+     "pa"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Aksara Jawa ꦒ dibaca?",
+    "a": "ga",
+    "w": [
+     "ka",
+     "ha",
+     "da"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Aksara Jawa ꦧ dibaca?",
+    "a": "ba",
+    "w": [
+     "pa",
+     "ma",
+     "wa"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Aksara Jawa ꦛ dibaca?",
+    "a": "tha",
+    "w": [
+     "ta",
+     "da",
+     "dha"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Aksara Jawa ꦝ dibaca?",
+    "a": "dha",
+    "w": [
+     "da",
+     "tha",
+     "ta"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Aksara Jawa ꦚ dibaca?",
+    "a": "nya",
+    "w": [
+     "na",
+     "nga",
+     "ya"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Aksara Jawa ꦔ dibaca?",
+    "a": "nga",
+    "w": [
+     "na",
+     "nya",
+     "ma"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Sandhangan wulu menghasilkan bunyi?",
+    "a": "i",
+    "w": [
+     "u",
+     "é",
+     "o"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Sandhangan suku menghasilkan bunyi?",
+    "a": "u",
+    "w": [
+     "i",
+     "é",
+     "o"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Sandhangan taling menghasilkan bunyi?",
+    "a": "é",
+    "w": [
+     "i",
+     "u",
+     "ê"
+    ]
+   }
+  ],
+  "SMA": [
+   {
+    "lv": "easy",
+    "q": "Nama lain aksara Jawa yang diambil dari urutan awalnya adalah?",
+    "a": "Hanacaraka",
+    "w": [
+     "Pallawa",
+     "Rencong",
+     "Lontara"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Tanda untuk mematikan vokal a disebut?",
+    "a": "Pangkon",
+    "w": [
+     "Wulu",
+     "Taling",
+     "Pepet"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Sandhangan yang memberi bunyi i disebut?",
+    "a": "Wulu",
+    "w": [
+     "Suku",
+     "Taling",
+     "Pangkon"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Sandhangan yang memberi bunyi u disebut?",
+    "a": "Suku",
+    "w": [
+     "Wulu",
+     "Taling",
+     "Pepet"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Sandhangan yang memberi bunyi e disebut?",
+    "a": "Taling",
+    "w": [
+     "Wulu",
+     "Suku",
+     "Pepet"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Huruf murda dalam aksara Jawa berfungsi sebagai?",
+    "a": "Huruf kapital",
+    "w": [
+     "Huruf kecil",
+     "Huruf pasangan",
+     "Tanda baca"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Aksara Jawa paling umum digunakan di pulau?",
+    "a": "Jawa",
+    "w": [
+     "Bali",
+     "Sumatera",
+     "Lombok"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Naskah Jawa kuno berbentuk syair dengan bahasa Kawi disebut?",
+    "a": "Kakawin",
+    "w": [
+     "Macapat",
+     "Babad",
+     "Serat"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Tembang Jawa dengan aturan guru gatra dan guru wilangan disebut?",
+    "a": "Macapat",
+    "w": [
+     "Kakawin",
+     "Babad",
+     "Serat"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Fungsi pangkon dalam penulisan aksara Jawa adalah?",
+    "a": "Mematikan vokal a",
+    "w": [
+     "Memanjangkan u",
+     "Menaikkan nada",
+     "Mengganti huruf"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Aksara Jawa yang digunakan untuk menulis aksara murda disebut?",
+    "a": "Aksara Jawa baku",
+    "w": [
+     "Aksara Latin",
+     "Aksara Arab",
+     "Aksara Bali"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Lambang pasangan ꦲ disebut?",
+    "a": "Ha pasangan",
+    "w": [
+     "Na pasangan",
+     "Ca pasangan",
+     "Ra pasangan"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Sandhangan layar menghasilkan bunyi akhir?",
+    "a": "r",
+    "w": [
+     "ng",
+     "h",
+     "k"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Sandhangan cecak menghasilkan bunyi akhir?",
+    "a": "ng",
+    "w": [
+     "r",
+     "h",
+     "m"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Sandhangan wignyan menghasilkan bunyi akhir?",
+    "a": "h",
+    "w": [
+     "r",
+     "ng",
+     "n"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Fungsi pangkon (꧀) adalah?",
+    "a": "Mematikan vokal aksara",
+    "w": [
+     "Menambah bunyi u",
+     "Menandai awal kalimat",
+     "Menandai angka"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Aksara murda digunakan untuk menulis?",
+    "a": "Nama gelar atau tokoh terhormat",
+    "w": [
+     "Angka",
+     "Kata serapan Arab",
+     "Tanda baca"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Aksara swara digunakan untuk menulis?",
+    "a": "Vokal mandiri pada kata tertentu",
+    "w": [
+     "Bilangan",
+     "Tanda baca",
+     "Nama sungai"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Angka Jawa ꧑ bernilai?",
+    "a": "1",
+    "w": [
+     "0",
+     "7",
+     "9"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Angka Jawa ꧕ bernilai?",
+    "a": "5",
+    "w": [
+     "3",
+     "6",
+     "8"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Tembang macapat berjumlah?",
+    "a": "11 jenis",
+    "w": [
+     "7 jenis",
+     "9 jenis",
+     "13 jenis"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Tembang macapat pertama menurut urutan umum adalah?",
+    "a": "Maskumambang",
+    "w": [
+     "Mijil",
+     "Pocung",
+     "Sinom"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Tembang macapat terakhir menurut urutan umum adalah?",
+    "a": "Pocung",
+    "w": [
+     "Gambuh",
+     "Pangkur",
+     "Durma"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Aturan jumlah suku kata pada tiap baris tembang disebut?",
+    "a": "Guru wilangan",
+    "w": [
+     "Guru gatra",
+     "Guru lagu",
+     "Guru basa"
+    ]
+   }
+  ],
+  "PhD": [
+   {
+    "lv": "easy",
+    "q": "Jumlah aksara swara dalam aksara Jawa adalah?",
+    "a": "5",
+    "w": [
+     "3",
+     "8",
+     "20"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Jumlah aksara murda dalam aksara Jawa adalah?",
+    "a": "8",
+    "w": [
+     "5",
+     "10",
+     "20"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Cerita asal-usul hanacaraka berkaitan dengan tokoh?",
+    "a": "Aji Saka",
+    "w": [
+     "Gajah Mada",
+     "Jaka Tarub",
+     "Ken Arok"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Arti kalimat Hanacaraka secara umum adalah?",
+    "a": "Ada utusan",
+    "w": [
+     "Ada raja",
+     "Ada perang",
+     "Ada hujan"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Aksara Jawa diturunkan dari aksara?",
+    "a": "Kawi (berasal dari Pallawa)",
+    "w": [
+     "Latin",
+     "Arab",
+     "Han"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Kakawin Nagarakretagama ditulis oleh?",
+    "a": "Mpu Prapanca",
+    "w": [
+     "Mpu Tantular",
+     "Mpu Kanwa",
+     "Mpu Sindok"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Serat Wedhatama digubah oleh?",
+    "a": "Mangkunegara IV",
+    "w": [
+     "Pakubuwana IV",
+     "Ranggawarsita",
+     "Yasadipura"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Ensiklopedia budaya Jawa yang sangat tebal adalah?",
+    "a": "Serat Centhini",
+    "w": [
+     "Serat Wedhatama",
+     "Serat Kalatidha",
+     "Serat Wulangreh"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Blok Unicode untuk aksara Jawa berada pada rentang?",
+    "a": "U+A980–U+A9DF",
+    "w": [
+     "U+0900–U+097F",
+     "U+1B00–U+1B7F",
+     "U+0600–U+06FF"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Aksara rékan dipakai untuk menulis?",
+    "a": "Bunyi serapan seperti fa, za, kha",
+    "w": [
+     "Angka",
+     "Tanda baca",
+     "Nama hari"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Sandhangan panyigeg wanda meliputi?",
+    "a": "Layar, cecak, wignyan, pangkon",
+    "w": [
+     "Wulu, suku, taling, pepet",
+     "Cakra, keret, pengkal",
+     "Murda, swara, rékan"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Sandhangan wyanjana meliputi?",
+    "a": "Cakra, keret, pengkal",
+    "w": [
+     "Layar, cecak, wignyan",
+     "Wulu, suku, taling",
+     "Murda, swara, rékan"
+    ]
+   }
+  ]
+ },
+ "ENG": {
+  "SD": [
+   {
+    "lv": "easy",
+    "q": "Apple artinya dalam bahasa Indonesia?",
+    "a": "Apel",
+    "w": [
+     "Pisang",
+     "Jeruk",
+     "Mangga"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Cat artinya dalam bahasa Indonesia?",
+    "a": "Kucing",
+    "w": [
+     "Anjing",
+     "Ikan",
+     "Burung"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Water artinya dalam bahasa Indonesia?",
+    "a": "Air",
+    "w": [
+     "Api",
+     "Tanah",
+     "Angin"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Red artinya dalam bahasa Indonesia?",
+    "a": "Merah",
+    "w": [
+     "Biru",
+     "Hijau",
+     "Kuning"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Book artinya dalam bahasa Indonesia?",
+    "a": "Buku",
+    "w": [
+     "Pensil",
+     "Meja",
+     "Kursi"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Father artinya dalam bahasa Indonesia?",
+    "a": "Ayah",
+    "w": [
+     "Ibu",
+     "Kakak",
+     "Adik"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Three artinya dalam bahasa Indonesia?",
+    "a": "Tiga",
+    "w": [
+     "Dua",
+     "Empat",
+     "Lima"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Sun artinya dalam bahasa Indonesia?",
+    "a": "Matahari",
+    "w": [
+     "Bulan",
+     "Bintang",
+     "Awan"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "House artinya dalam bahasa Indonesia?",
+    "a": "Rumah",
+    "w": [
+     "Sekolah",
+     "Toko",
+     "Kantor"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Hello artinya dalam bahasa Indonesia?",
+    "a": "Halo",
+    "w": [
+     "Selamat tinggal",
+     "Terima kasih",
+     "Maaf"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Good morning artinya dalam bahasa Indonesia?",
+    "a": "Selamat pagi",
+    "w": [
+     "Selamat malam",
+     "Selamat siang",
+     "Selamat sore"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Blue artinya dalam bahasa Indonesia?",
+    "a": "Biru",
+    "w": [
+     "Merah",
+     "Hitam",
+     "Putih"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Dog artinya dalam bahasa Indonesia?",
+    "a": "Anjing",
+    "w": [
+     "Kucing",
+     "Kuda",
+     "Sapi"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Fish artinya dalam bahasa Indonesia?",
+    "a": "Ikan",
+    "w": [
+     "Burung",
+     "Ular",
+     "Katak"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Mother artinya dalam bahasa Indonesia?",
+    "a": "Ibu",
+    "w": [
+     "Ayah",
+     "Kakek",
+     "Nenek"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Green artinya dalam bahasa Indonesia?",
+    "a": "Hijau",
+    "w": [
+     "Kuning",
+     "Ungu",
+     "Oranye"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "One artinya dalam bahasa Indonesia?",
+    "a": "Satu",
+    "w": [
+     "Dua",
+     "Tiga",
+     "Empat"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Four artinya dalam bahasa Indonesia?",
+    "a": "Empat",
+    "w": [
+     "Tiga",
+     "Lima",
+     "Enam"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Ten artinya dalam bahasa Indonesia?",
+    "a": "Sepuluh",
+    "w": [
+     "Sembilan",
+     "Sebelas",
+     "Delapan"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Chair artinya dalam bahasa Indonesia?",
+    "a": "Kursi",
+    "w": [
+     "Meja",
+     "Lemari",
+     "Tempat tidur"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Bird artinya dalam bahasa Indonesia?",
+    "a": "Burung",
+    "w": [
+     "Ikan",
+     "Kucing",
+     "Kelinci"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Moon artinya dalam bahasa Indonesia?",
+    "a": "Bulan",
+    "w": [
+     "Matahari",
+     "Bintang",
+     "Awan"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Good night artinya dalam bahasa Indonesia?",
+    "a": "Selamat malam",
+    "w": [
+     "Selamat pagi",
+     "Selamat siang",
+     "Selamat sore"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Thank you artinya dalam bahasa Indonesia?",
+    "a": "Terima kasih",
+    "w": [
+     "Maaf",
+     "Tolong",
+     "Permisi"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Sorry artinya dalam bahasa Indonesia?",
+    "a": "Maaf",
+    "w": [
+     "Terima kasih",
+     "Selamat",
+     "Silakan"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Yellow artinya dalam bahasa Indonesia?",
+    "a": "Kuning",
+    "w": [
+     "Merah",
+     "Biru",
+     "Putih"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Eye artinya dalam bahasa Indonesia?",
+    "a": "Mata",
+    "w": [
+     "Telinga",
+     "Hidung",
+     "Mulut"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Hand artinya dalam bahasa Indonesia?",
+    "a": "Tangan",
+    "w": [
+     "Kaki",
+     "Kepala",
+     "Bahu"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Milk artinya dalam bahasa Indonesia?",
+    "a": "Susu",
+    "w": [
+     "Air",
+     "Teh",
+     "Jus"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Tree artinya dalam bahasa Indonesia?",
+    "a": "Pohon",
+    "w": [
+     "Bunga",
+     "Rumput",
+     "Daun"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Red artinya?",
+    "a": "Merah",
+    "w": [
+     "Biru",
+     "Hijau",
+     "Kuning"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Book artinya?",
+    "a": "Buku",
+    "w": [
+     "Pensil",
+     "Meja",
+     "Tas"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Water artinya?",
+    "a": "Air",
+    "w": [
+     "Api",
+     "Tanah",
+     "Udara"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "I ___ a student.",
+    "a": "am",
+    "w": [
+     "is",
+     "are",
+     "be"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "She ___ a book every day.",
+    "a": "reads",
+    "w": [
+     "read",
+     "reading",
+     "readed"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Bentuk jamak dari child adalah?",
+    "a": "children",
+    "w": [
+     "childs",
+     "childrens",
+     "childes"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Lawan kata big adalah?",
+    "a": "small",
+    "w": [
+     "tall",
+     "long",
+     "fat"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Yesterday I ___ to school.",
+    "a": "went",
+    "w": [
+     "go",
+     "goes",
+     "going"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "There ___ three books on the table.",
+    "a": "are",
+    "w": [
+     "is",
+     "am",
+     "be"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Bentuk lampau dari eat adalah?",
+    "a": "ate",
+    "w": [
+     "eated",
+     "eaten",
+     "eating"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Lawan kata hot adalah?",
+    "a": "cold",
+    "w": [
+     "warm",
+     "cool",
+     "wet"
+    ]
+   }
+  ],
+  "SMP": [
+   {
+    "lv": "easy",
+    "q": "Past tense dari go adalah?",
+    "a": "went",
+    "w": [
+     "goed",
+     "gone",
+     "going"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Plural dari child adalah?",
+    "a": "children",
+    "w": [
+     "childs",
+     "childes",
+     "childern"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "She ___ a student. Kata yang tepat adalah?",
+    "a": "is",
+    "w": [
+     "am",
+     "are",
+     "be"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Antonim dari big adalah?",
+    "a": "small",
+    "w": [
+     "large",
+     "tall",
+     "huge"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Synonym dari happy adalah?",
+    "a": "glad",
+    "w": [
+     "sad",
+     "angry",
+     "tired"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Beautiful artinya dalam bahasa Indonesia?",
+    "a": "Cantik",
+    "w": [
+     "Jelek",
+     "Pintar",
+     "Rajin"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "I ___ playing football now. Kata yang tepat adalah?",
+    "a": "am",
+    "w": [
+     "is",
+     "are",
+     "be"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Plural dari mouse adalah?",
+    "a": "mice",
+    "w": [
+     "mouses",
+     "mices",
+     "mousies"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Yesterday artinya dalam bahasa Indonesia?",
+    "a": "Kemarin",
+    "w": [
+     "Besok",
+     "Sekarang",
+     "Minggu lalu"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Past tense dari eat adalah?",
+    "a": "ate",
+    "w": [
+     "eated",
+     "eaten",
+     "eating"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Library artinya dalam bahasa Indonesia?",
+    "a": "Perpustakaan",
+    "w": [
+     "Laboratorium",
+     "Kantin",
+     "Lapangan"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "There ___ two cats. Kata yang tepat adalah?",
+    "a": "are",
+    "w": [
+     "is",
+     "am",
+     "be"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "I ___ go to school tomorrow. Kata yang tepat adalah?",
+    "a": "will",
+    "w": [
+     "is",
+     "was",
+     "have"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "They ___ playing now. Kata yang tepat adalah?",
+    "a": "are",
+    "w": [
+     "is",
+     "was",
+     "am"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "He ___ to school every day. Kata yang tepat adalah?",
+    "a": "goes",
+    "w": [
+     "go",
+     "going",
+     "gone"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "We ___ dinner last night. Kata yang tepat adalah?",
+    "a": "had",
+    "w": [
+     "have",
+     "has",
+     "having"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Past tense dari see adalah?",
+    "a": "saw",
+    "w": [
+     "seen",
+     "seed",
+     "seeing"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Past tense dari buy adalah?",
+    "a": "bought",
+    "w": [
+     "buyed",
+     "buy",
+     "buying"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Plural dari city adalah?",
+    "a": "cities",
+    "w": [
+     "citys",
+     "citties",
+     "cityes"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Opposite of hot adalah?",
+    "a": "cold",
+    "w": [
+     "warm",
+     "hard",
+     "soft"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Synonym of big adalah?",
+    "a": "large",
+    "w": [
+     "small",
+     "short",
+     "thin"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Quickly artinya dalam bahasa Indonesia?",
+    "a": "Dengan cepat",
+    "w": [
+     "Dengan pelan",
+     "Dengan hati-hati",
+     "Dengan diam"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Dangerous artinya dalam bahasa Indonesia?",
+    "a": "Berbahaya",
+    "w": [
+     "Aman",
+     "Menyenangkan",
+     "Lucu"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Tomorrow artinya dalam bahasa Indonesia?",
+    "a": "Besok",
+    "w": [
+     "Kemarin",
+     "Sekarang",
+     "Lusa"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "To borrow artinya dalam bahasa Indonesia?",
+    "a": "Meminjam",
+    "w": [
+     "Meminjamkan",
+     "Membeli",
+     "Menjual"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Kitchen artinya dalam bahasa Indonesia?",
+    "a": "Dapur",
+    "w": [
+     "Kamar mandi",
+     "Ruang tamu",
+     "Garasi"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Hospital artinya dalam bahasa Indonesia?",
+    "a": "Rumah sakit",
+    "w": [
+     "Pasar",
+     "Sekolah",
+     "Kantor pos"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Kata must menunjukkan?",
+    "a": "Keharusan",
+    "w": [
+     "Keinginan",
+     "Kemungkinan",
+     "Larangan"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Bentuk jamak dari box adalah?",
+    "a": "boxes",
+    "w": [
+     "boxs",
+     "boxies",
+     "boxen"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "He ___ playing football now.",
+    "a": "is",
+    "w": [
+     "are",
+     "am",
+     "be"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Lawan kata early adalah?",
+    "a": "late",
+    "w": [
+     "soon",
+     "fast",
+     "slow"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "I have ___ apple.",
+    "a": "an",
+    "w": [
+     "a",
+     "the",
+     "some"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "If it rains, I ___ at home.",
+    "a": "will stay",
+    "w": [
+     "stayed",
+     "would stayed",
+     "am stay"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "She is ___ than her sister.",
+    "a": "taller",
+    "w": [
+     "tall",
+     "tallest",
+     "more tall"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "The book ___ by him.",
+    "a": "was written",
+    "w": [
+     "wrote",
+     "is write",
+     "has wrote"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "I have lived here ___ 2010.",
+    "a": "since",
+    "w": [
+     "for",
+     "in",
+     "from"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Passive dari 'They built the house' adalah?",
+    "a": "The house was built by them",
+    "w": [
+     "The house built them",
+     "The house is build by them",
+     "They were built the house"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "He said, 'I am tired.' Bentuk reported speech-nya?",
+    "a": "He said that he was tired",
+    "w": [
+     "He said that I am tired",
+     "He said that he is tired",
+     "He says that he was tired"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Neither of them ___ here.",
+    "a": "is",
+    "w": [
+     "are",
+     "were",
+     "be"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Sinonim dari huge adalah?",
+    "a": "enormous",
+    "w": [
+     "tiny",
+     "narrow",
+     "plain"
+    ]
+   }
+  ],
+  "SMA": [
+   {
+    "lv": "easy",
+    "q": "Past participle dari write adalah?",
+    "a": "written",
+    "w": [
+     "wrote",
+     "writed",
+     "writing"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Antonim dari ancient adalah?",
+    "a": "modern",
+    "w": [
+     "old",
+     "historic",
+     "former"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Hopefully artinya dalam bahasa Indonesia?",
+    "a": "Semoga",
+    "w": [
+     "Pasti",
+     "Mungkin",
+     "Segera"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Ambiguous artinya dalam bahasa Indonesia?",
+    "a": "Ambigu",
+    "w": [
+     "Jelas",
+     "Pasti",
+     "Lengkap"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Accomplish artinya dalam bahasa Indonesia?",
+    "a": "Mencapai",
+    "w": [
+     "Menyerah",
+     "Menunda",
+     "Mengulang"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Reluctant artinya dalam bahasa Indonesia?",
+    "a": "Enggan",
+    "w": [
+     "Antusias",
+     "Yakin",
+     "Marah"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Phrasal verb give up artinya?",
+    "a": "Menyerah",
+    "w": [
+     "Memberi hadiah",
+     "Menyumbang",
+     "Menunda"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Meticulous artinya dalam bahasa Indonesia?",
+    "a": "Teliti",
+    "w": [
+     "Ceroboh",
+     "Malas",
+     "Cepat"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Kalimat Although it rained, we went out menunjukkan hubungan?",
+    "a": "Kontras",
+    "w": [
+     "Sebab",
+     "Tujuan",
+     "Waktu"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Serendipity artinya dalam bahasa Indonesia?",
+    "a": "Keberuntungan yang tak terduga",
+    "w": [
+     "Kesedihan",
+     "Kebosanan",
+     "Ketakutan"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Conditional tipe 2 memakai pola?",
+    "a": "If + past, would + V1",
+    "w": [
+     "If + present, will + V1",
+     "If + past, will + V1",
+     "If + present, would + V1"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Passive voice dari She writes a letter adalah?",
+    "a": "A letter is written by her",
+    "w": [
+     "A letter was written by her",
+     "A letter is writing by her",
+     "A letter has written by her"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Although artinya dalam bahasa Indonesia?",
+    "a": "Meskipun",
+    "w": [
+     "Karena",
+     "Setelah",
+     "Sebelum"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Nevertheless artinya dalam bahasa Indonesia?",
+    "a": "Namun demikian",
+    "w": [
+     "Oleh karena itu",
+     "Sebaliknya",
+     "Selanjutnya"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Inevitable artinya dalam bahasa Indonesia?",
+    "a": "Tidak terelakkan",
+    "w": [
+     "Mudah dicapai",
+     "Tidak penting",
+     "Tidak jelas"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Sustainable artinya dalam bahasa Indonesia?",
+    "a": "Berkelanjutan",
+    "w": [
+     "Sementara",
+     "Mahal",
+     "Rahasia"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Profound artinya dalam bahasa Indonesia?",
+    "a": "Mendalam",
+    "w": [
+     "Dangkal",
+     "Sederhana",
+     "Biasa"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Eloquent artinya dalam bahasa Indonesia?",
+    "a": "Fasih",
+    "w": [
+     "Pendiam",
+     "Malas",
+     "Gugup"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Ubiquitous artinya dalam bahasa Indonesia?",
+    "a": "Ada di mana-mana",
+    "w": [
+     "Langka",
+     "Mengerikan",
+     "Tersembunyi"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Scrutinize artinya dalam bahasa Indonesia?",
+    "a": "Meneliti dengan saksama",
+    "w": [
+     "Mengabaikan",
+     "Menyederhanakan",
+     "Memuji"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Deteriorate artinya dalam bahasa Indonesia?",
+    "a": "Memburuk",
+    "w": [
+     "Membaik",
+     "Berkembang",
+     "Bertambah"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Candid artinya dalam bahasa Indonesia?",
+    "a": "Jujur dan terus terang",
+    "w": [
+     "Pemalu",
+     "Licik",
+     "Sombong"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Alleviate artinya dalam bahasa Indonesia?",
+    "a": "Meringankan",
+    "w": [
+     "Memperberat",
+     "Membuang",
+     "Menunda"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Coherent artinya dalam bahasa Indonesia?",
+    "a": "Runtut dan logis",
+    "w": [
+     "Acak",
+     "Rumit",
+     "Kacau"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Meager artinya dalam bahasa Indonesia?",
+    "a": "Sedikit dan kurang",
+    "w": [
+     "Melimpah",
+     "Mewah",
+     "Dekat"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Thorough artinya dalam bahasa Indonesia?",
+    "a": "Teliti dan menyeluruh",
+    "w": [
+     "Asal-asalan",
+     "Cepat",
+     "Dangkal"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Had I known, I would have acted. Ini termasuk bentuk?",
+    "a": "Inversi (pembalikan subjek dan kata kerja)",
+    "w": [
+     "Pasif",
+     "Kalimat tanya",
+     "Kalimat perintah"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Sinonim dari happy adalah?",
+    "a": "glad",
+    "w": [
+     "sad",
+     "angry",
+     "tired"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "She ___ to the market yesterday.",
+    "a": "went",
+    "w": [
+     "goes",
+     "going",
+     "gone"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Kata benda dari the verb 'decide' adalah?",
+    "a": "decision",
+    "w": [
+     "decisive",
+     "decidedly",
+     "deciding"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Had I known, I ___ come.",
+    "a": "would have",
+    "w": [
+     "will",
+     "would",
+     "had"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "The man ___ car was stolen is my uncle.",
+    "a": "whose",
+    "w": [
+     "who",
+     "which",
+     "whom"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Not only ___ he lazy, but he is also rude.",
+    "a": "is",
+    "w": [
+     "does",
+     "has",
+     "do"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "She suggested ___ early.",
+    "a": "leaving",
+    "w": [
+     "to leaving",
+     "leave to",
+     "left"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "By next year, she ___ here for ten years.",
+    "a": "will have worked",
+    "w": [
+     "will work",
+     "works",
+     "has worked"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "It is high time we ___ home.",
+    "a": "went",
+    "w": [
+     "go",
+     "will go",
+     "have gone"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Hardly ___ he arrived when it started to rain.",
+    "a": "had",
+    "w": [
+     "has",
+     "did",
+     "was"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "___ being tired, he finished the work.",
+    "a": "Despite",
+    "w": [
+     "Although",
+     "Because",
+     "However"
+    ]
+   }
+  ],
+  "PhD": [
+   {
+    "lv": "easy",
+    "q": "Teori tata bahasa generatif dikemukakan oleh?",
+    "a": "Noam Chomsky",
+    "w": [
+     "B.F. Skinner",
+     "Ferdinand de Saussure",
+     "Jean Piaget"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Satuan terkecil yang bermakna dalam bahasa adalah?",
+    "a": "Morfem",
+    "w": [
+     "Fonem",
+     "Silabel",
+     "Klausa"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Satuan bunyi terkecil yang membedakan makna disebut?",
+    "a": "Fonem",
+    "w": [
+     "Morfem",
+     "Leksem",
+     "Grafem"
+    ]
+   },
+   {
+    "lv": "easy",
+    "q": "Level tertinggi dalam CEFR adalah?",
+    "a": "C2",
+    "w": [
+     "A1",
+     "B2",
+     "C1"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Hipotesis input i+1 dikemukakan oleh?",
+    "a": "Stephen Krashen",
+    "w": [
+     "Noam Chomsky",
+     "Lev Vygotsky",
+     "Michael Halliday"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Pembedaan langue dan parole berasal dari?",
+    "a": "Ferdinand de Saussure",
+    "w": [
+     "Noam Chomsky",
+     "Roman Jakobson",
+     "Leonard Bloomfield"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Teori speech act dipelopori oleh?",
+    "a": "J.L. Austin",
+    "w": [
+     "Noam Chomsky",
+     "William Labov",
+     "Dell Hymes"
+    ]
+   },
+   {
+    "lv": "mid",
+    "q": "Hipotesis relativitas linguistik dikenal sebagai hipotesis?",
+    "a": "Sapir-Whorf",
+    "w": [
+     "Krashen",
+     "Chomsky",
+     "Halliday"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Systemic Functional Linguistics dikembangkan oleh?",
+    "a": "M.A.K. Halliday",
+    "w": [
+     "Noam Chomsky",
+     "William Labov",
+     "Stephen Krashen"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Konsep Zone of Proximal Development berasal dari?",
+    "a": "Lev Vygotsky",
+    "w": [
+     "Jean Piaget",
+     "B.F. Skinner",
+     "Jerome Bruner"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Communicative competence dikemukakan oleh?",
+    "a": "Dell Hymes",
+    "w": [
+     "Noam Chomsky",
+     "Stephen Krashen",
+     "Michael Canale"
+    ]
+   },
+   {
+    "lv": "hard",
+    "q": "Kajian variasi bahasa dalam masyarakat disebut?",
+    "a": "Sosiolinguistik",
+    "w": [
+     "Psikolinguistik",
+     "Fonologi",
+     "Semantik"
+    ]
+   }
+  ]
+ }
+}
